@@ -14,5 +14,5 @@ npm install
 
 - Crear tareas
 - Actualizar tareas
-- listar tareas
-- Elimnar tareas
+- Listar tareas
+- Eliminar tareas
